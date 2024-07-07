@@ -1,5 +1,4 @@
 # House Price Prediction Project
-Created By: Lalit Agarwal
 
 ## Dataset Exploration
 - The project focuses on predicting housing prices using the provided dataset.

@@ -1,5 +1,4 @@
 # House Price Prediction Project
-Created By: Lalit Agarwal
 
 ## Dataset Exploration
 - The project focuses on predicting housing prices using the provided dataset.
@@ -36,8 +35,3 @@ Below are the preprocessing steps performed on the data:
 - Potential risks of underfitting or overfitting need to be monitored.
 - The current implementation does not see any significant risks of under/overfitting, but future occurrences can be managed by cross-validation and regularization techniques.
 
-## Potential Model Improvements
-- Incorporating more diverse and extensive datasets could improve model robustness and accuracy.
-- Enhancing preprocessing steps to better handle noise and outliers in the data.
-- Experimenting with advanced machine learning models and ensemble techniques for better performance.
-- Fine-tuning the model with domain-specific data to improve its applicability to targeted use cases.
